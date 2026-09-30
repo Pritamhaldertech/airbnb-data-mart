@@ -188,7 +188,7 @@ erDiagram
     }
 ```
 
-A static version is in [`docs/er_diagram.png`](docs/er_diagram.png).
+A static version is in [`er_diagram.png`](er_diagram.png).
 
 ## Design decisions
 
@@ -271,8 +271,7 @@ All data is fictional sample data.
 airbnb-data-mart/
 ├── schema_and_data.sql   # all 24 tables with keys, constraints and sample data
 ├── queries.sql           # 11 analytical queries
-└── docs/
-    └── er_diagram.png    # ER diagram
+└── er_diagram.png        # ER diagram
 ```
 
 ## Author
